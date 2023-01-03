@@ -15,6 +15,11 @@ public class ConsecutiveNumbers {
         }
 
 
+        /*
+                I feel like there is too much code
+                      if you have any other solution ( maybe using switch ) let me know
+
+         */
         for (int i = 1; i <= num; i++) {
 
             if (i % 2 == 0 && i % 3 == 0 && i % 5 == 0) {
