@@ -3,7 +3,7 @@ package question2;
 public class DivideWithoutOperator {
 
     public static void main(String[] args) {
-        int result = divide(10, -2);
+        int result = divide(2, -4);
         System.out.println(result);
     }
 
